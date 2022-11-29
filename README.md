@@ -43,7 +43,7 @@ G)	Cadrul legal	(pag.6)
 3. DESCRIEREA SALONULUI DE COAFURĂ	(pag.7)
 
 4. C ŞI C++	(pag.8)
-5. 
+
 a)	Informaţii	(pag.8)
 
 b)	Elemente de bază ale limbajului C++	(pag.8)
