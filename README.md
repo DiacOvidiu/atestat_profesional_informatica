@@ -60,7 +60,6 @@ IV.	Biblioteci folosite	(pag.19)
 
 6. CONCLUZII	(pag.20)
 
-
 7.BIBLIOGRAFIE	(pag.21)
 
 ANEXA / CODUL SURSĂ	(pag.22)
