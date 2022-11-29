@@ -2,19 +2,20 @@
 Lucrarea de atestat profesional la Informatica (Clasa a12a 2017)
 
 LICEUL TEORETIC „STEPHAN LUDWIG ROTH”
+
 MEDIAŞ
+
 PROIECT pentru obţinerea Atestatului Profesional la Informatică
-Îndrumător: 
-prof. Enea Constantin	
+
+
+Îndrumător: prof. Enea Constantin
+
+
 Autor: Diac Viorel Ovidiu
-	
-Mediaş
-2017 
-LICEUL TEORETIC „STEPHAN LUDWIG ROTH”
-MEDIAŞ
+
+
 DVO HAIRSTYLE
-Mediaş
-2017 
+
 
 Cuprins:
 
