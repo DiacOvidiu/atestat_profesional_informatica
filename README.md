@@ -66,4 +66,5 @@ IV.	Biblioteci folosite	(pag.19)
 ANEXA / CODUL SURSĂ	(pag.22)
 
 **Pentru a accesa aplicatia construita, descarcati toate materialele necesare si accesati Djikstra.exe**
+
 ***Pentru a vedea codul sursa, accesati fisierul main.cpp***
