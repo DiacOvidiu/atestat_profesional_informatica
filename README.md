@@ -64,3 +64,5 @@ IV.	Biblioteci folosite	(pag.19)
 7.BIBLIOGRAFIE	(pag.21)
 
 ANEXA / CODUL SURSĂ	(pag.22)
+
+**Pentru a accesa aplicatia construita, descarcati toate materialele necesare si accesati Djikstra.exe**
